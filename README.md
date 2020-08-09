@@ -62,7 +62,7 @@ Multicast for udp added. You need to set the Multicast IP address and port to li
 
 ***example***
 
-    EthernetUdp udp
+    EthernetUDP udp
     upd.beginMulticast(multicastIP, port);
 
 ## Unicast blocking support
